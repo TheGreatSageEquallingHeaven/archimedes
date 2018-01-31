@@ -1,0 +1,8 @@
+eureka:
+  client:
+    service-url.defaultZone: http://localhost:3100/eureka/
+zuul:
+  routes:
+    turing:
+      path: /feign/**
+      serviceId: turing
