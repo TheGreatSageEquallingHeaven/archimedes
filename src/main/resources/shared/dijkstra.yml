@@ -5,6 +5,4 @@ zuul:
     turing:
       path: /feign/**
       serviceId: turing-service
-eureka:
-  client:
-    service-url.defaultZone: http://localhost:3100/eureka/
+      serviceId: turing-service
