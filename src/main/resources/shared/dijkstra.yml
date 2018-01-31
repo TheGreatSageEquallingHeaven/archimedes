@@ -4,4 +4,4 @@ zuul:
   routes:
     turing:
       path: /feign/**
-      serviceId: turing
+      serviceId: turing-service
