@@ -6,3 +6,5 @@ spring:
     port: 5672
     username: qiche
     password: 123456
+
+test: abc
