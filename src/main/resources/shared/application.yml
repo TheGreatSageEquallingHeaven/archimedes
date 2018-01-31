@@ -1,9 +1,0 @@
-eureka:
-  client:
-    service-url.defaultZone: http://localhost:3100/eureka/
-spring:
-  cloud:
-    config:
-      discovery:
-        enabled: true
-        serviceId: archimedes
