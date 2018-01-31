@@ -1,3 +1,5 @@
+server:
+  port: 3100
 eureka:
   instance:
     hostname: localhost
