@@ -10,6 +10,4 @@ spring:
           uri: https://github.com/TheGreatSageEquallingHeaven/archimedes.git
           search-paths: /src/main/resources/shared
           default-label: master
-eureka:
-  client:
-    service-url.defaultZone: http://localhost:3100/eureka/
+
