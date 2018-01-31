@@ -1,6 +1,5 @@
-eureka:
-  client:
-    service-url.defaultZone: http://localhost:3100/eureka/
+server:
+  port: 5100
 zuul:
   routes:
     turing:

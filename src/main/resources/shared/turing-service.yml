@@ -1,6 +1,5 @@
-eureka:
-  client:
-    service-url.defaultZone: http://localhost:3100/eureka/
+server:
+  port: 4103
 feign:
   hystrix:
     enabled: true
